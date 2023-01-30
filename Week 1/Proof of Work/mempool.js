@@ -4,7 +4,7 @@ const MAX_TRANSACTIONS = 10;
 
 const mempool = [];
 const blocks = [];
-
+//Added this
 function addTransaction(transaction) {
     mempool.push(transaction)
 }
